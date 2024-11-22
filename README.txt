@@ -1,5 +1,5 @@
 Auteurs du projet : 
-		MAURAND Pierre 21702704, L2 Informatique, Groupe 4B
+		MAURAND Julia 21702704, L2 Informatique, Groupe 4B
 
 Pour lancer cette application :
 	
